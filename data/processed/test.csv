@@ -1,0 +1,226 @@
+query,intent,cleaned_query
+Quick question: Could you check the delivery status for my purchase thanks.,track_order,quick question could you check the delivery status for my purchase thanks
+Change my subscription payment frequency to annual please.,subscription_management,change my subscription payment frequency to annual please
+"Can someone tell me, Stop shipment and cancel my transaction as soon as possible.",cancel_order,can someone tell me stop shipment and cancel my transaction as soon as possible
+Quick question: Stop shipment and cancel my transaction as soon as possible.,cancel_order,quick question stop shipment and cancel my transaction as soon as possible
+Quick question: Downgrade my membership to free tier thank you so much.,subscription_management,quick question downgrade my membership to free tier thank you so much
+Update delivery address on file for my current order,change_shipping_address,update delivery address on file for my current order
+Urgent: My tracking link shows delivered but I haven't received anything please.,track_order,urgent my tracking link shows delivered but i have not received anything please
+"Hey there, How do I return an item and get my money back please.",request_refund,hey there how do i return an item and get my money back please
+"Hello support, Promo discount coupon code was not applied to payment please.",payment_problem,hello support promo discount coupon code was not applied to payment please
+Quick question: Renew my expired subscription with a discount thanks.,subscription_management,quick question renew my expired subscription with a discount thanks
+"Excuse me, Human representative needed for urgent dispute ASAP.",contact_human_agent,excuse me human representative needed for urgent dispute asap
+Urgent: I want to upgrade from basic plan to pro plan thanks.,subscription_management,urgent i want to upgrade from basic plan to pro plan thanks
+"Excuse me, Change my shipping destination to 456 Elm Street",change_shipping_address,excuse me change my shipping destination to <NUM> elm street
+"Hello support, I was charged for renewal after requesting cancellation as soon as possible.",subscription_management,hello support i was charged for renewal after requesting cancellation as soon as possible
+"Please help me, Check courier whereabouts for my parcel appreciate any help.",track_order,please help me check courier whereabouts for my parcel appreciate any help
+"Hello support, Does this jacket run true to size ASAP.",product_inquiry,hello support does this jacket run true to size asap
+"Please help me, Requesting reimbursement for order #12890 appreciate any help.",request_refund,please help me requesting reimbursement for order <ENTITY_ID> appreciate any help
+"Can someone tell me, I want to stop my order from being delivered please.",cancel_order,can someone tell me i want to stop my order from being delivered please
+Urgent: Need to void my order from 10 minutes ago as soon as possible.,cancel_order,urgent need to void my order from <NUM> minutes ago as soon as possible
+"Excuse me, Requesting reimbursement for order #12890 as soon as possible.",request_refund,excuse me requesting reimbursement for order <ENTITY_ID> as soon as possible
+"Hey there, Cannot sign in to my portal dashboard thank you so much.",account_issue,hey there cannot sign in to my portal dashboard thank you so much
+I received the wrong size and want to return for a refund as soon as possible.,request_refund,i received the wrong size and want to return for a refund as soon as possible
+Quick question: When will the black leather boots be back in stock thank you so much.,product_inquiry,quick question when will the black leather boots be back in stock thank you so much
+"Excuse me, I have been waiting 40 minutes on hold, awful service please.",feedback_or_complaint,excuse me i have been waiting <NUM> minutes on hold awful service please
+Quick question: I was overcharged on my last purchase please.,payment_problem,quick question i was overcharged on my last purchase please
+"Hi, I want to change the email associated with my profile ASAP.",account_issue,hi i want to change the email associated with my profile asap
+Quick question: Having trouble logging into the mobile app,account_issue,quick question having trouble logging into the mobile app
+"I have been waiting 40 minutes on hold, awful service",feedback_or_complaint,i have been waiting <NUM> minutes on hold awful service
+"Hello support, Abort delivery and cancel the order",cancel_order,hello support abort delivery and cancel the order
+"Hello support, How does product model X compare with model Y thank you so much.",product_inquiry,hello support how does product model x compare with model y thank you so much
+Urgent: Update my saved credit card for auto-pay as soon as possible.,payment_problem,urgent update my saved credit card for auto pay as soon as possible
+"Please help me, I need live support right now thank you so much.",contact_human_agent,please help me i need live support right now thank you so much
+"Excuse me, Pleased with the quick resolution, thank you team as soon as possible.",feedback_or_complaint,excuse me pleased with the quick resolution thank you team as soon as possible
+"Hello support, Can I pay using PayPal or Apple Pay thank you so much.",payment_problem,hello support can i pay using paypal or apple pay thank you so much
+Quick question: I was charged twice for the same transaction ASAP.,payment_problem,quick question i was charged twice for the same transaction asap
+Quick question: I was charged for renewal after requesting cancellation please.,subscription_management,quick question i was charged for renewal after requesting cancellation please
+"Please help me, What are the exact dimensions of this study desk thank you so much.",product_inquiry,please help me what are the exact dimensions of this study desk thank you so much
+"Hey there, I moved to a new house, need to fix my delivery address thanks.",change_shipping_address,hey there i moved to a new house need to fix my delivery address thanks
+"I typed the wrong apartment number, please change it please.",change_shipping_address,i typed the wrong apartment number please change it please
+"Hey there, Does this jacket run true to size",product_inquiry,hey there does this jacket run true to size
+"Excuse me, Please unlock my user account please.",account_issue,excuse me please unlock my user account please
+"Hello support, Transfer me to human assistance immediately as soon as possible.",contact_human_agent,hello support transfer me to human assistance immediately as soon as possible
+Quick question: Status of shipment for item ordered yesterday,track_order,quick question status of shipment for item ordered yesterday
+I want to change the email associated with my profile,account_issue,i want to change the email associated with my profile
+"Hello support, Is there an estimated delivery date for order #77123 thanks.",track_order,hello support is there an estimated delivery date for order <ENTITY_ID> thanks
+Promo discount coupon code was not applied to payment,payment_problem,promo discount coupon code was not applied to payment
+"Hi, Let me speak to a real human person please ASAP.",contact_human_agent,hi let me speak to a real human person please asap
+"Hello support, Unauthorized login detected on my profile thanks.",account_issue,hello support unauthorized login detected on my profile thanks
+"Please help me, Can I cancel my order before it ships out thank you so much.",cancel_order,please help me can i cancel my order before it ships out thank you so much
+Quick question: Does this product come with a manufacturer warranty please.,product_inquiry,quick question does this product come with a manufacturer warranty please
+"Hi, Pleased with the quick resolution, thank you team thank you so much.",feedback_or_complaint,hi pleased with the quick resolution thank you team thank you so much
+"Hello support, I made a mistake, please cancel order #98124 as soon as possible.",cancel_order,hello support i made a mistake please cancel order <ENTITY_ID> as soon as possible
+"Hey there, I was charged for renewal after requesting cancellation thank you so much.",subscription_management,hey there i was charged for renewal after requesting cancellation thank you so much
+How can I update my profile personal details as soon as possible.,account_issue,how can i update my profile personal details as soon as possible
+Urgent: Can you tell me the battery life of this model please.,product_inquiry,urgent can you tell me the battery life of this model please
+"Hi, I was overcharged on my last purchase appreciate any help.",payment_problem,hi i was overcharged on my last purchase appreciate any help
+Urgent: Unexpected fee on my checkout total thank you so much.,payment_problem,urgent unexpected fee on my checkout total thank you so much
+"Hi, How can I update my profile personal details ASAP.",account_issue,hi how can i update my profile personal details asap
+Quick question: Are these wireless headphones water resistant thanks.,product_inquiry,quick question are these wireless headphones water resistant thanks
+"Excuse me, Where can I find the courier tracking number thank you so much.",track_order,excuse me where can i find the courier tracking number thank you so much
+"Hi, Which payment methods do you accept",payment_problem,hi which payment methods do you accept
+"Hey there, Remove subscription auto-debit from my account as soon as possible.",subscription_management,hey there remove subscription auto debit from my account as soon as possible
+Quick question: My credit card was declined during checkout thanks.,payment_problem,quick question my credit card was declined during checkout thanks
+Please cancel my purchase immediately,cancel_order,please cancel my purchase immediately
+Is there a phone number I can call to speak with someone?,contact_human_agent,is there a phone number i can call to speak with someone
+How many days does it take to see the refund in my bank?,request_refund,how many days does it take to see the refund in my bank
+"Quick question: Sent to old address by mistake, please correct it appreciate any help.",change_shipping_address,quick question sent to old address by mistake please correct it appreciate any help
+"Can someone tell me, Track order ORD-55412 please as soon as possible.",track_order,can someone tell me track order <ENTITY_ID> please as soon as possible
+"Can someone tell me, Add an extra user seat to my business plan thank you so much.",subscription_management,can someone tell me add an extra user seat to my business plan thank you so much
+"Hello support, Delivery delay on my laptop order appreciate any help.",track_order,hello support delivery delay on my laptop order appreciate any help
+"Can someone tell me, What benefits are included in VIP membership ASAP.",subscription_management,can someone tell me what benefits are included in vip membership asap
+"Please help me, Complain about late delivery and broken promise thanks.",feedback_or_complaint,please help me complain about late delivery and broken promise thanks
+"Hello support, How do I amend shipping information after payment thanks.",change_shipping_address,hello support how do i amend shipping information after payment thanks
+"Hi, Change my shipping destination to 456 Elm Street please.",change_shipping_address,hi change my shipping destination to <NUM> elm street please
+Can I pay using PayPal or Apple Pay thank you so much.,payment_problem,can i pay using paypal or apple pay thank you so much
+Can you track my shipment for order #98231 thank you so much.,track_order,can you track my shipment for order <ENTITY_ID> thank you so much
+"Please help me, What materials are used in this organic t-shirt as soon as possible.",product_inquiry,please help me what materials are used in this organic t shirt as soon as possible
+"Hi, Where is my package right now thanks.",track_order,hi where is my package right now thanks
+"Quick question: I was promised a refund last week, still waiting as soon as possible.",request_refund,quick question i was promised a refund last week still waiting as soon as possible
+Urgent: Human representative needed for urgent dispute,contact_human_agent,urgent human representative needed for urgent dispute
+Quick question: Transfer me to human assistance immediately as soon as possible.,contact_human_agent,quick question transfer me to human assistance immediately as soon as possible
+"Please help me, Two-factor authentication code is not arriving on my phone ASAP.",account_issue,please help me two factor authentication code is not arriving on my phone asap
+"Hi, Let me speak to a real human person please please.",contact_human_agent,hi let me speak to a real human person please please
+How can I cancel an order that is pending confirmation,cancel_order,how can i cancel an order that is pending confirmation
+"Excuse me, Is this phone 5G enabled thank you so much.",product_inquiry,excuse me is this phone 5g enabled thank you so much
+"Hello support, Unexpected fee on my checkout total ASAP.",payment_problem,hello support unexpected fee on my checkout total asap
+"Can someone tell me, Two-factor authentication code is not arriving on my phone thanks.",account_issue,can someone tell me two factor authentication code is not arriving on my phone thanks
+Two-factor authentication code is not arriving on my phone as soon as possible.,account_issue,two factor authentication code is not arriving on my phone as soon as possible
+How to switch between subscription tiers?,subscription_management,how to switch between subscription tiers
+"Can someone tell me, Change my shipping destination to 456 Elm Street appreciate any help.",change_shipping_address,can someone tell me change my shipping destination to <NUM> elm street appreciate any help
+"Please help me, Does this jacket run true to size as soon as possible.",product_inquiry,please help me does this jacket run true to size as soon as possible
+"Hey there, Please credit $45 back to my original payment method appreciate any help.",request_refund,hey there please credit <AMOUNT> back to my original payment method appreciate any help
+Terrible experience with delivery delay of two weeks,feedback_or_complaint,terrible experience with delivery delay of two weeks
+"Hey there, What benefits are included in VIP membership appreciate any help.",subscription_management,hey there what benefits are included in vip membership appreciate any help
+"Can someone tell me, Your website checkout is very frustrating to use appreciate any help.",feedback_or_complaint,can someone tell me your website checkout is very frustrating to use appreciate any help
+"Hi, I have been waiting 40 minutes on hold, awful service as soon as possible.",feedback_or_complaint,hi i have been waiting <NUM> minutes on hold awful service as soon as possible
+"Excuse me, I need my package delivered to a different street appreciate any help.",change_shipping_address,excuse me i need my package delivered to a different street appreciate any help
+"Hello support, Can I cancel my order before it ships out please.",cancel_order,hello support can i cancel my order before it ships out please
+"Can someone tell me, Delivery delay on my laptop order thank you so much.",track_order,can someone tell me delivery delay on my laptop order thank you so much
+"Please help me, Terrible experience with delivery delay of two weeks ASAP.",feedback_or_complaint,please help me terrible experience with delivery delay of two weeks asap
+"Hey there, Bank says payment went through but website shows failed ASAP.",payment_problem,hey there bank says payment went through but website shows failed asap
+Urgent: Please unlock my user account,account_issue,urgent please unlock my user account
+Urgent: Please unlock my user account appreciate any help.,account_issue,urgent please unlock my user account appreciate any help
+Urgent: My tracking link shows delivered but I haven't received anything thanks.,track_order,urgent my tracking link shows delivered but i have not received anything thanks
+"Urgent: I sent back the package, when will my refund be processed as soon as possible.",request_refund,urgent i sent back the package when will my refund be processed as soon as possible
+"Hi, Human representative needed for urgent dispute",contact_human_agent,hi human representative needed for urgent dispute
+Change my subscription payment frequency to annual,subscription_management,change my subscription payment frequency to annual
+Can I return an opened box item for a refund thank you so much.,request_refund,can i return an opened box item for a refund thank you so much
+"Hey there, When will the black leather boots be back in stock ASAP.",product_inquiry,hey there when will the black leather boots be back in stock asap
+"Excuse me, How can I cancel an order that is pending confirmation ASAP.",cancel_order,excuse me how can i cancel an order that is pending confirmation asap
+"Hello support, Food order arrived cold and stale, very bad service thank you so much.",feedback_or_complaint,hello support food order arrived cold and stale very bad service thank you so much
+"Hey there, I need live support right now thank you so much.",contact_human_agent,hey there i need live support right now thank you so much
+"Can someone tell me, Does this jacket run true to size please.",product_inquiry,can someone tell me does this jacket run true to size please
+"Can someone tell me, I was promised a refund last week, still waiting appreciate any help.",request_refund,can someone tell me i was promised a refund last week still waiting appreciate any help
+"Hey there, Where is my refund for the returned headphones please.",request_refund,hey there where is my refund for the returned headphones please
+"Excuse me, Initiate return and refund process for my last order please.",request_refund,excuse me initiate return and refund process for my last order please
+Quick question: Let me speak to a real human person please ASAP.,contact_human_agent,quick question let me speak to a real human person please asap
+Urgent: I need live support right now appreciate any help.,contact_human_agent,urgent i need live support right now appreciate any help
+Connect me with a customer support representative,contact_human_agent,connect me with a customer support representative
+"Hey there, Billing error on invoice #88921 please.",payment_problem,hey there billing error on invoice <ENTITY_ID> please
+Quick question: Connect to live chat agent thank you so much.,contact_human_agent,quick question connect to live chat agent thank you so much
+"Hello support, Two-factor authentication code is not arriving on my phone thank you so much.",account_issue,hello support two factor authentication code is not arriving on my phone thank you so much
+"Excuse me, Can you track my shipment for order #98231 appreciate any help.",track_order,excuse me can you track my shipment for order <ENTITY_ID> appreciate any help
+Quick question: Track order ORD-55412 please thanks.,track_order,quick question track order <ENTITY_ID> please thanks
+"Hey there, Where is my refund for the returned headphones thank you so much.",request_refund,hey there where is my refund for the returned headphones thank you so much
+Urgent: Can I cancel my order before it ships out thank you so much.,cancel_order,urgent can i cancel my order before it ships out thank you so much
+Can I pause my subscription for two months?,subscription_management,can i pause my subscription for two months
+"Hello support, Connect me with a customer support representative as soon as possible.",contact_human_agent,hello support connect me with a customer support representative as soon as possible
+"The item is not what was advertised, please refund me please.",request_refund,the item is not what was advertised please refund me please
+"Hello support, I have been waiting 40 minutes on hold, awful service as soon as possible.",feedback_or_complaint,hello support i have been waiting <NUM> minutes on hold awful service as soon as possible
+Urgent: How does product model X compare with model Y please.,product_inquiry,urgent how does product model x compare with model y please
+Urgent: I was overcharged on my last purchase please.,payment_problem,urgent i was overcharged on my last purchase please
+"Please help me, Please change shipping location to my office address ASAP.",change_shipping_address,please help me please change shipping location to my office address asap
+"Misleading product description on website, very unsatisfied thank you so much.",feedback_or_complaint,misleading product description on website very unsatisfied thank you so much
+"Can someone tell me, Can someone call me back at my phone number appreciate any help.",contact_human_agent,can someone tell me can someone call me back at my phone number appreciate any help
+"Hey there, Can you track my shipment for order #98231 please.",track_order,hey there can you track my shipment for order <ENTITY_ID> please
+"Hey there, I have not received my delivery yet, where is it",track_order,hey there i have not received my delivery yet where is it
+Quick question: Billing cycle question regarding my monthly subscription ASAP.,subscription_management,quick question billing cycle question regarding my monthly subscription asap
+Quick question: Where can I find the courier tracking number thank you so much.,track_order,quick question where can i find the courier tracking number thank you so much
+"I accidentally placed duplicate orders, please cancel one",cancel_order,i accidentally placed duplicate orders please cancel one
+"Hi, Complain about late delivery and broken promise as soon as possible.",feedback_or_complaint,hi complain about late delivery and broken promise as soon as possible
+"Hello support, Can someone call me back at my phone number please.",contact_human_agent,hello support can someone call me back at my phone number please
+Please change shipping location to my office address,change_shipping_address,please change shipping location to my office address
+"Hey there, Does the camera include memory cards in the box thank you so much.",product_inquiry,hey there does the camera include memory cards in the box thank you so much
+"Hello support, Requesting reimbursement for order #12890 please.",request_refund,hello support requesting reimbursement for order <ENTITY_ID> please
+Status of shipment for item ordered yesterday,track_order,status of shipment for item ordered yesterday
+"Hey there, Complain about late delivery and broken promise appreciate any help.",feedback_or_complaint,hey there complain about late delivery and broken promise appreciate any help
+"Please help me, How do I return an item and get my money back appreciate any help.",request_refund,please help me how do i return an item and get my money back appreciate any help
+Quick question: Need to modify address on pending order #11293 ASAP.,change_shipping_address,quick question need to modify address on pending order <ENTITY_ID> asap
+Refund my money immediately for defective goods,request_refund,refund my money immediately for defective goods
+Urgent: Update delivery address on file for my current order please.,change_shipping_address,urgent update delivery address on file for my current order please
+Quick question: I want to change the email associated with my profile thanks.,account_issue,quick question i want to change the email associated with my profile thanks
+Quick question: Please change shipping location to my office address thank you so much.,change_shipping_address,quick question please change shipping location to my office address thank you so much
+"Can someone tell me, I was charged twice for the same transaction thanks.",payment_problem,can someone tell me i was charged twice for the same transaction thanks
+Urgent: I want a full refund for this damaged shirt thanks.,request_refund,urgent i want a full refund for this damaged shirt thanks
+"Hey there, Renew my expired subscription with a discount as soon as possible.",subscription_management,hey there renew my expired subscription with a discount as soon as possible
+Can you tell me the battery life of this model?,product_inquiry,can you tell me the battery life of this model
+"Please help me, Please cancel my purchase immediately appreciate any help.",cancel_order,please help me please cancel my purchase immediately appreciate any help
+"Hey there, Connect me with a customer support representative thanks.",contact_human_agent,hey there connect me with a customer support representative thanks
+"Excuse me, Where is my refund for the returned headphones thanks.",request_refund,excuse me where is my refund for the returned headphones thanks
+"Excuse me, Pleased with the quick resolution, thank you team thank you so much.",feedback_or_complaint,excuse me pleased with the quick resolution thank you team thank you so much
+"Can someone tell me, I accidentally placed duplicate orders, please cancel one please.",cancel_order,can someone tell me i accidentally placed duplicate orders please cancel one please
+"Hi, Cancel item #44102 from my basket order as soon as possible.",cancel_order,hi cancel item <ENTITY_ID> from my basket order as soon as possible
+"Can someone tell me, Food order arrived cold and stale, very bad service as soon as possible.",feedback_or_complaint,can someone tell me food order arrived cold and stale very bad service as soon as possible
+"Hi, Please unlock my user account appreciate any help.",account_issue,hi please unlock my user account appreciate any help
+"Hey there, Please change shipping location to my office address as soon as possible.",change_shipping_address,hey there please change shipping location to my office address as soon as possible
+"Verification code expired, send me a new login link thank you so much.",account_issue,verification code expired send me a new login link thank you so much
+"Hi, The app keeps crashing when searching for products, fix it please.",feedback_or_complaint,hi the app keeps crashing when searching for products fix it please
+"Hey there, Connect to live chat agent thank you so much.",contact_human_agent,hey there connect to live chat agent thank you so much
+Could you check the delivery status for my purchase?,track_order,could you check the delivery status for my purchase
+"Please help me, Where can I find the courier tracking number as soon as possible.",track_order,please help me where can i find the courier tracking number as soon as possible
+Get me a real customer service executive on the line ASAP.,contact_human_agent,get me a real customer service executive on the line asap
+"Hey there, How many days does it take to see the refund in my bank appreciate any help.",request_refund,hey there how many days does it take to see the refund in my bank appreciate any help
+Change my shipping destination to 456 Elm Street,change_shipping_address,change my shipping destination to <NUM> elm street
+"Hello support, I made a mistake, please cancel order #98124 thank you so much.",cancel_order,hello support i made a mistake please cancel order <ENTITY_ID> thank you so much
+Urgent: Two-factor authentication code is not arriving on my phone,account_issue,urgent two factor authentication code is not arriving on my phone
+"Can someone tell me, My package arrived completely crushed and damaged appreciate any help.",feedback_or_complaint,can someone tell me my package arrived completely crushed and damaged appreciate any help
+"Please help me, Which payment methods do you accept as soon as possible.",payment_problem,please help me which payment methods do you accept as soon as possible
+"Excuse me, I want to file a formal complaint against the courier driver thank you so much.",feedback_or_complaint,excuse me i want to file a formal complaint against the courier driver thank you so much
+"Hey there, I want to delete my account and user data please.",account_issue,hey there i want to delete my account and user data please
+"Hey there, Need to modify address on pending order #11293 ASAP.",change_shipping_address,hey there need to modify address on pending order <ENTITY_ID> asap
+"Excuse me, Does this product come with a manufacturer warranty thanks.",product_inquiry,excuse me does this product come with a manufacturer warranty thanks
+"Please help me, Which payment methods do you accept ASAP.",payment_problem,please help me which payment methods do you accept asap
+"Please help me, Food order arrived cold and stale, very bad service thanks.",feedback_or_complaint,please help me food order arrived cold and stale very bad service thanks
+"Can someone tell me, I want to file a formal complaint against the courier driver please.",feedback_or_complaint,can someone tell me i want to file a formal complaint against the courier driver please
+Worst customer support experience I have ever had,feedback_or_complaint,worst customer support experience i have ever had
+"Hey there, Tracking status says in transit but no update for 3 days thanks.",track_order,hey there tracking status says in transit but no update for <NUM> days thanks
+"Hi, When does my current annual plan expire",subscription_management,hi when does my current annual plan expire
+"Hello support, Abort delivery and cancel the order please.",cancel_order,hello support abort delivery and cancel the order please
+"Hi, Sent to old address by mistake, please correct it as soon as possible.",change_shipping_address,hi sent to old address by mistake please correct it as soon as possible
+"Hello support, Stop giving automated replies, I need a person ASAP.",contact_human_agent,hello support stop giving automated replies i need a person asap
+"Quick question: I typed the wrong apartment number, please change it thank you so much.",change_shipping_address,quick question i typed the wrong apartment number please change it thank you so much
+Can I cancel my order before it ships out?,cancel_order,can i cancel my order before it ships out
+"Hey there, Can someone call me back at my phone number ASAP.",contact_human_agent,hey there can someone call me back at my phone number asap
+"Hi, How can I update my profile personal details thanks.",account_issue,hi how can i update my profile personal details thanks
+"Can someone tell me, Can I get a refund? The product arrived broken thanks.",request_refund,can someone tell me can i get a refund the product arrived broken thanks
+"Can someone tell me, Does this product come with a manufacturer warranty thanks.",product_inquiry,can someone tell me does this product come with a manufacturer warranty thanks
+"Hello support, I need my package delivered to a different street thank you so much.",change_shipping_address,hello support i need my package delivered to a different street thank you so much
+Quick question: Promo discount coupon code was not applied to payment ASAP.,payment_problem,quick question promo discount coupon code was not applied to payment asap
+Urgent: Cancel item #44102 from my basket order ASAP.,cancel_order,urgent cancel item <ENTITY_ID> from my basket order asap
+Which payment methods do you accept please.,payment_problem,which payment methods do you accept please
+"Hi, How can I update my profile personal details please.",account_issue,hi how can i update my profile personal details please
+"Hello support, Misleading product description on website, very unsatisfied as soon as possible.",feedback_or_complaint,hello support misleading product description on website very unsatisfied as soon as possible
+"Excuse me, Can I cancel my order before it ships out ASAP.",cancel_order,excuse me can i cancel my order before it ships out asap
+How do I amend shipping information after payment thanks.,change_shipping_address,how do i amend shipping information after payment thanks
+Urgent: How do I reset my password thanks.,account_issue,urgent how do i reset my password thanks
+"Excuse me, When does my current annual plan expire as soon as possible.",subscription_management,excuse me when does my current annual plan expire as soon as possible
+"Hey there, Does this product come with a manufacturer warranty thank you so much.",product_inquiry,hey there does this product come with a manufacturer warranty thank you so much
+Urgent: Can I update my delivery address for order #44123 please.,change_shipping_address,urgent can i update my delivery address for order <ENTITY_ID> please
+"Hey there, I was charged for renewal after requesting cancellation please.",subscription_management,hey there i was charged for renewal after requesting cancellation please
+Urgent: Trouble processing payment with my debit card,payment_problem,urgent trouble processing payment with my debit card
+"Can someone tell me, I want to talk to an agent, this bot is not helping please.",contact_human_agent,can someone tell me i want to talk to an agent this bot is not helping please
+"Hello support, Payment failed but the amount was deducted from my bank thank you so much.",payment_problem,hello support payment failed but the amount was deducted from my bank thank you so much
+Urgent: Cancel order ORD-33211 right away thanks.,cancel_order,urgent cancel order <ENTITY_ID> right away thanks
+Quick question: Please change shipping location to my office address appreciate any help.,change_shipping_address,quick question please change shipping location to my office address appreciate any help
+Do you sell replacement parts or cables for this device ASAP.,product_inquiry,do you sell replacement parts or cables for this device asap
+"Hello support, Can you tell me the battery life of this model",product_inquiry,hello support can you tell me the battery life of this model
+Urgent: Can you track my shipment for order #98231,track_order,urgent can you track my shipment for order <ENTITY_ID>
+"Hey there, When is my parcel scheduled to arrive",track_order,hey there when is my parcel scheduled to arrive
+"Hello support, Refund my money immediately for defective goods ASAP.",request_refund,hello support refund my money immediately for defective goods asap
+Change my subscription payment frequency to annual appreciate any help.,subscription_management,change my subscription payment frequency to annual appreciate any help
+"Excuse me, Is this item made of genuine leather or synthetic thanks.",product_inquiry,excuse me is this item made of genuine leather or synthetic thanks
+"Hello support, Stop auto-renewal on my premium membership ASAP.",subscription_management,hello support stop auto renewal on my premium membership asap
+"Hey there, Is the wireless mouse compatible with Mac and Windows ASAP.",product_inquiry,hey there is the wireless mouse compatible with mac and windows asap
+Urgent: I was charged for renewal after requesting cancellation as soon as possible.,subscription_management,urgent i was charged for renewal after requesting cancellation as soon as possible
